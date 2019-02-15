@@ -45,7 +45,7 @@ starting_amount = int(input(print("Enter starting amount")))
 #Starts the banking app
 menu(starting_amount)
 
-
+![alt text](C:\Users\Reshi\OneDrive\Pictures\Screenshots)
 
 
 #Chrisitan Rodas
